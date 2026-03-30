@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Brick Breaker Pro",
+    "slug": "brick-breaker-pro",
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/icon.svg",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.svg",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.svg",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.netizen.brickbreakerpro"
+    },
+    "web": {
+      "favicon": "./assets/icon.svg"
+    }
+  }
+}
