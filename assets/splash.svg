@@ -1,0 +1,13 @@
+<svg width="2048" height="2048" viewBox="0 0 2048 2048" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="2048" height="2048" fill="black"/>
+  <g opacity="0.5">
+    <path d="M0 1024H2048" stroke="#00FF00" stroke-width="2"/>
+    <path d="M1024 0V2048" stroke="#00FF00" stroke-width="2"/>
+  </g>
+  <text x="1024" y="1000" font-family="monospace" font-size="120" fill="#00FF00" text-anchor="middle" font-weight="bold">INITIALIZING_KERNEL...</text>
+  <text x="1024" y="1150" font-family="monospace" font-size="80" fill="#00FF00" text-anchor="middle" opacity="0.6">BRICK_BREAKER_V1.0.4</text>
+  <rect x="824" y="1300" width="400" height="20" fill="#111"/>
+  <rect x="824" y="1300" width="280" height="20" fill="#00FF00">
+    <animate attributeName="width" from="0" to="400" dur="3s" repeatCount="indefinite" />
+  </rect>
+</svg>
