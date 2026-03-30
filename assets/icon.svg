@@ -1,0 +1,10 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" fill="black"/>
+  <circle cx="512" cy="512" r="400" stroke="#00FF00" stroke-width="20" stroke-dasharray="50 30"/>
+  <rect x="312" y="300" width="400" height="80" fill="#00FF00" fill-opacity="0.2" stroke="#00FF00" stroke-width="10"/>
+  <circle cx="512" cy="700" r="40" fill="#FFFFFF">
+    <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <path d="M412 850H612" stroke="#00FF00" stroke-width="30" stroke-linecap="round"/>
+  <text x="512" y="520" font-family="monospace" font-size="60" fill="#00FF00" text-anchor="middle" font-weight="bold">BRICK_BREAKER_PRO</text>
+</svg>
